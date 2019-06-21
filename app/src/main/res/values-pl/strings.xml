@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kuiristo</string>
+    <string name="add">Dodaj</string>
+    <string name="favorite">Ulubione</string>
+    <string name="all">Wszystkie</string>
+    <string name="recipes">Przepisy</string>
+    <string name="search">Search</string>
+
+</resources>
